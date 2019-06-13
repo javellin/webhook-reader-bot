@@ -1,0 +1,11 @@
+{
+    "name": "tiro-morto-bot",
+    "version": "1.0.0",
+    "description": "TiroMortoBot",
+    "main": "bot.js",
+    "author": "beep",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "winston": "^3.2.1"
+    }
+}
